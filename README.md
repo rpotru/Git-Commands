@@ -27,7 +27,8 @@ PowerCLI-Scripts/
 5) Commit the file that you've staged in your local repository.
    git commit -m "Adding new script for networking"
    
-6) git push origin
+6) push to github respository master branch.
+   git push origin
 
 
 
